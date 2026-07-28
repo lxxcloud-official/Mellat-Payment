@@ -75,3 +75,12 @@ GitHub : [👉 @lxxcloud-official 👈](https://github.com/lxxcloud-official)
 Telegram : [👉 @lxxcloud 👈](https://t.me/lxxcloud)
 
 
+```text
+For educational and authorized security testing purposes only.
+Use this tool only on systems you own or have explicit permission to test.
+The user bears full responsibility for ensuring lawful use.
+ The developer assumes no liability for any misuse or illegal activity associated with this tool.
+
+```
+
+
