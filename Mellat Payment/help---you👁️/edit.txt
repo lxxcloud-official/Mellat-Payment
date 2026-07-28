@@ -1,4 +1,4 @@
-Index.php :
+edit Index.php :
  line 9 = مبلغ
  line 256 = نام پذیرنده 
  line 257 = شماره پذیرنده 
@@ -6,7 +6,7 @@ Index.php :
 
 
 
-Jss.php :
+ edit Jss.php :
  line 5 = ایدی عددی اکانت شما 
  line 6 = توکن ربات
  line 7 =  آنتی اسپم
