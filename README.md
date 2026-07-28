@@ -65,7 +65,7 @@ Actually routing goes from the global internet to your localhost
 | [LocalXpose](https://localxpose.io?utm_source=chatgpt.com)                                                                 | Development tunnels                 | Similar use case to ngrok                           |
 
 #
-## 👇اگر خواستید این پروژه رو روی linux اجرا کنید و به نتیجه نرسیدید با من در ارتباط باشید 👇
+## اگر خواستید این پروژه رو روی linux اجرا کنید و به نتیجه نرسیدید با من در ارتباط باشید 👇
 
 
 ## 👤 Author
