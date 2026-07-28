@@ -7,7 +7,7 @@
 <img src="Mellat Payment/img/github/iop.png" width="1080">
 
 <p align="center">
-  <i>Help Video on Telegram 👉 https://t.me/black_cloud2000/ 👈  </i>
+  <i>Help Video on Telegram 👉 https://t.me/black_cloud2000/376 👈  </i>
 </p>
 
 ## ⚙️ Setup steps :
